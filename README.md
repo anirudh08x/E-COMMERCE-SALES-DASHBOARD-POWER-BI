@@ -1,5 +1,3 @@
-# E-COMMERCE-SALES-DASHBOARD-POWER-BI
-
 ## Problem Statement
 
 A US Based Ecommerce Sales Company wants us to create a Sales Dashboard showing information of YTD Sales and generate insights for below scenarios-
